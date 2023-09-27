@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.huix.top</id>
+    <title>HUIX&apos;s Blog</title>
+    <updated>2023-09-27T04:43:54.001Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.huix.top"/>
+    <link rel="self" href="https://blog.huix.top/atom.xml"/>
+    <subtitle>海内存知己，天涯若比邻。&lt;/br&gt;
+欢迎来到我的小站❤️</subtitle>
+    <logo>https://blog.huix.top/images/avatar.png</logo>
+    <icon>https://blog.huix.top/favicon.ico</icon>
+    <rights>All rights reserved 2023, HUIX&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[世界上最便宜的域名后缀!]]></title>
+        <id>https://blog.huix.top/post/namecom/</id>
+        <link href="https://blog.huix.top/post/namecom/">
+        </link>
+        <updated>2023-09-16T23:44:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是个<code>.xyz</code>的域名后缀，但是大家都知道，首年便宜续费贵。<br>
+但是还有一种就是6位数数字的的<code>.xyz</code>域名。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是个<code>.xyz</code>的域名后缀，但是大家都知道，首年便宜续费贵。<br>
+但是还有一种就是6位数数字的的<code>.xyz</code>域名。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩一下Netlify]]></title>
+        <id>https://blog.huix.top/post/netlify/</id>
+        <link href="https://blog.huix.top/post/netlify/">
+        </link>
+        <updated>2023-09-16T06:35:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>其实我很久以前我就玩过了，但是一看<a href="https://www.netlify.com/">官网</a>竟然大变样子了。今天周六学校放假，这次我给大家再玩一下，顺便再推荐一下。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>其实我很久以前我就玩过了，但是一看<a href="https://www.netlify.com/">官网</a>竟然大变样子了。今天周六学校放假，这次我给大家再玩一下，顺便再推荐一下。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://blog.huix.top/post/hello-gridea/</id>
+        <link href="https://blog.huix.top/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
